@@ -38,13 +38,14 @@ Rosyjski – biegły / fluent
 👩‍💻 O mnie / About me
 
 Uczennica technikum informatycznego, obecnie dodatkowo uczestniczę w kursach “Python Developer”.
-Brałam udział w praktykach Erasmus w Grecji oraz zdobyłam doświadczenie w pracy w firmie IT.
+Brałam udział w praktykach 2025.03.10 - 2025.03.21 Erasmus w Salonikach/Grecji oraz zdobyłam doświadczenie w pracy w firmie IT EXEO Software company.
+
 Zainteresowana web developmentem oraz Python/Data Science, bardzo komunikatywna, otwarta, chętna do nauki i pracy zespołowej.
 
 Motywowana i ukierunkowana w pracy zespołowej i zdobyciu praktycznego doświadczenia.
 
 Motivated IT student
 currently taking an additional “Python Developer” course.
-Participated in Erasmus internship in Greece and gained experience working in an IT company.
+Participated in Erasmus internship 2025.03.10 - 2025.03.21 in Thessaloniki / Greece and gained experience working in an IT EXEO Software company.
 Passionate about web development and Python/Data Science, highly communicative, creative, and open to challenges, and positively motivated.
 Seeking an IT internship in Kraków to further develop teamwork skills and gain hands-on professional experience.
