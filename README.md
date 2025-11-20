@@ -2,7 +2,7 @@ Lada Bahdanovich
 
 📍 Kraków | ladabogdanovich@gmail.com
  | 📞 +48 510 118 616 |
-🔗 LinkedIn – www.linkedin.com/in/lilda
+🔗 LinkedIn – www.linkedin.com/in/lllda
 
 🔗 GitHub – https://github.com/lilda06
 
