@@ -27,16 +27,6 @@ SQLite, PostgreSQL
 Narzędzia / Tools:
 .NET MAUI, Microsoft Forms, Git, VS Code, Visual Studio, PyCharm, draw.io
 
-💻 Projekty / Projects
-
-– “Nie sklep” – konsolowa aplikacja w Pythonie z SQLAlchemy i SQLite (rejestracja, logowanie, zakupy, profil użytkownika)
-– “Not a shop” – console application in Python with SQLAlchemy & SQLite (registration, login, shopping, user profile)
-
-– Strony WWW – proste projekty w HTML/CSS/JS / Simple static websites (HTML/CSS/JS) – LINAŻA, KIDS – Static Website for a Children’s Clothing Brand & handmade store site for LINAZA-KIDS, both with HTML, CSS, and JavaScript.
-
-– Flask mini-project – rejestracja, logowanie, formularze / Flask mini-project – user authentication & forms
-
-– “Cafe” Django System – system rezerwacji online dla kawiarni z interaktywnym kalendarzem i panelem administracyjnym / Online booking system for a café with user booking history and admin panel.
 
 🌍 Języki / Languages
 
