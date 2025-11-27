@@ -48,7 +48,6 @@ I’m passionate about backend development, clean architecture, and building pra
 ### 📚 Additional Knowledge
 
 * Git / GitHub
-* Linux basics
 * Data Science fundamentals (NumPy, pandas)
 * English B2/C1, German (beginner)
 * .NET MAUI
