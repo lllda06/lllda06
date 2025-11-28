@@ -9,6 +9,15 @@ I’m passionate about backend development, clean architecture, and building pra
 
 ## 🧠 Tech Stack & Skills
 
+## 🎓 Python Developer Certificate
+
+I'm happy to share that I've completed the **Python Developer** course by TeachMeSkills.  
+Over 204 academic hours, I worked with Python fundamentals, OOP, algorithms, and practical projects.
+
+I'm looking forward to applying this knowledge to real-world development.
+
+![Certificate](https://github.com/user-attachments/assets/01cd6fff-2966-4af8-bab3-5fa45716d806)
+
 ### 💻 Programming & Markup Languages
 
 * **Python** (OOP, async, typing, decorators, exceptions)
