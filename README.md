@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Lada!
-
 **Junior Python Developer & Data Science Enthusiast** | 📍 Kraków  
 💡 Passionate about **backend development** & **data-driven solutions**  
 
