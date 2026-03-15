@@ -40,29 +40,6 @@
 
 ---
 
-## 🚀 What I Do
-- Build **backend apps** with Python, FastAPI & Django  
-- Work with **databases, REST APIs, auth & async features**  
-- Learn by creating **real-world projects**  
-
----
-
-## 🎓 Currently Learning
-- **Data Science:** pandas, NumPy, ML basics  
-- Advanced Python & clean code  
-- FastAPI & Django best practices  
-- SQL optimization & database design  
-- Deployment, Docker & server management  
-
----
-
-## 🎯 Goals
-- Contribute to **open-source projects**  
-- Grow as a **backend engineer & data-driven developer**  
-- Build **meaningful products** solving real-world problems  
-
----
-
 ## 🎓 Python Developer Certificate
 
 I'm happy to share that I've completed the **Python Developer** course by TeachMeSkills.  
