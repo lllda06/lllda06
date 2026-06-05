@@ -51,9 +51,8 @@ Over 204 academic hours, I worked with Python fundamentals, OOP, algorithms, and
         <img src="https://github.com/user-attachments/assets/01cd6fff-2966-4af8-bab3-5fa45716d806" width="450"/><br>
         <b>Certificate 1</b>
       </td>
-
       <td align="center">
-        <img src="ai.png" width="450"/><br>
+        <img src="./ai.png" width="450"/><br>
         <b>Certificate 2</b>
       </td>
     </tr>
