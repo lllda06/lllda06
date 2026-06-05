@@ -42,7 +42,7 @@
 
 ## 🎓 Python Developer Certificate
 
-Over 204 academic hours, I worked with Python fundamentals, OOP, algorithms, and practical projects.
+Over 204 academic hours, I worked with Python fundamentals, OOP, algorithms, practical projects, and earned a Microsoft AI certification.
 
 <div align="center">
   <table>
