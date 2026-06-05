@@ -42,7 +42,7 @@
 
 ## 🎓 Python Developer Certificate
 
-Over 204 academic hours, I worked with Python fundamentals, OOP, algorithms, practical projects, and earned a Microsoft AI certification.
+Over 204 academic hours, I worked with Python fundamentals, OOP, algorithms, and practical projects, and earned a Microsoft AI certification. I also successfully completed my Erasmus+ internship program in Thessaloniki, Greece, where I developed my software skills and gained valuable international and teamwork experience.
 
 <div align="center">
   <table>
@@ -57,7 +57,7 @@ Over 204 academic hours, I worked with Python fundamentals, OOP, algorithms, pra
       </td>
       <td align="center">
         <img src="./erasmus.png" width="450"/><br>
-        <b>Certificate 2</b>
+        <b>Certificate 3</b>
       </td>
     </tr>
   </table>
