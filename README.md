@@ -55,6 +55,10 @@ Over 204 academic hours, I worked with Python fundamentals, OOP, algorithms, pra
         <img src="./ai.png" width="450"/><br>
         <b>Certificate 2</b>
       </td>
+      <td align="center">
+        <img src="./erasmus.png" width="450"/><br>
+        <b>Certificate 2</b>
+      </td>
     </tr>
   </table>
 </div>
