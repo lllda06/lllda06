@@ -40,7 +40,7 @@
 
 ---
 
-## 🎓 Python Developer Certificate
+## 🎓 AI, Python & Data Science Development Certificate
 
 Over 204 academic hours, I worked with Python fundamentals, OOP, algorithms, and practical projects, and earned a Microsoft AI certification. I also successfully completed my Erasmus+ internship program in Thessaloniki, Greece, where I developed my software skills and gained valuable international and teamwork experience.
 
